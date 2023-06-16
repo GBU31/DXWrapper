@@ -6,4 +6,6 @@ DirectX &lt;=7, 8, 9, 10 ,11 Wrapper
 
 
 
-![Screenshot 2023-06-15 000904](https://github.com/brookehorizon/DXWrapper/assets/86805843/8a34e28b-b771-4507-9d62-9e3ec696cc1b)
+
+![Screenshot 2023-06-17 022412](https://github.com/brookehorizon/DXWrapper/assets/86805843/9e1327b3-be63-4fe5-892b-0a462b1605b0)
+![Screenshot 2023-06-17 023113](https://github.com/brookehorizon/DXWrapper/assets/86805843/a544985f-53fd-4b15-8281-604c29b79ebb)
